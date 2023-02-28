@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Larocca 🖐️
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@killsis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
@@ -24,4 +24,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Novo Regen Reload](https://www.youtube.com/watch?v=mVM7buO78es)<br/>
 - [Download Blackout Free Mode](https://www.youtube.com/watch?v=nJS4vmnU0LY)<br/>
 - [Install Blackout Client](https://youtu.be/Ptnvt1cTnuU)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+- [ReCode new Regen Base](https://youtu.be/8bvkG6CjejU)<br/>
