@@ -21,7 +21,7 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
+- [Novo Regen Reload](https://www.youtube.com/watch?v=mVM7buO78es)<br/>
+- [Download Blackout Free Mode](https://www.youtube.com/watch?v=nJS4vmnU0LY)<br/>
+- [Install Blackout Client](https://youtu.be/Ptnvt1cTnuU)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
